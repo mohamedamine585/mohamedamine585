@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mohamed amine Tlili!
 
-I'm a passionate **Software Engineering Student** constantly evolving with the latest technologies to build scalable and impactful solutions. I'm excited to contribute to the tech community, explore innovative projects, and learn new skills along the way.
+I'm a passionate **Software Engineering Student** and a **Flutter developer** constantly evolving with the latest technologies to build scalable and impactful solutions. I'm excited to contribute to the tech community, explore innovative projects, and learn new skills along the way.
 
 ---
 
