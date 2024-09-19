@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Mohamed amine Tlili!
 
 I'm a passionate **Software Engineering Student** constantly evolving with the latest technologies to build scalable and impactful solutions. I'm excited to contribute to the tech community, explore innovative projects, and learn new skills along the way.
 
@@ -36,7 +36,7 @@ I am currently deepening my expertise in:
 ### 📫 Get in Touch
 
 Feel free to connect with me!
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-amine-tlili-8a123522a/)
 - [Email](mailto:mohamedaminetlili02@gmail.com)
 
 ---
