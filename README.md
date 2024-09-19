@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hello, I'm [Your Name]!
 
-<!--
-**mohamedamine585/mohamedamine585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineering Student** constantly evolving with the latest technologies to build scalable and impactful solutions. I'm excited to contribute to the tech community, explore innovative projects, and learn new skills along the way.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies & Tools
+
+- **Mobile Development**: Flutter
+- **Backend Development**: Node.js, Spring Boot
+- **Frontend Development**: React, Angular
+- **Database Management**: PostgreSQL, Firebase
+- **Cloud Platforms**: Firebase
+
+---
+
+### 💡 What I'm Learning
+I am currently deepening my expertise in:
+- Advanced Flutter & cross-platform mobile development
+- Full-stack web applications with React & Spring Boot
+- Scaling backend systems with microservices architectures
+
+---
+
+### 🎯 My Goals
+- 💻 Contribute to more open-source projects
+- 🚀 Build products that make a real impact
+- 🧠 Always learning and improving
+
+---
+
+### 📫 Get in Touch
+
+Feel free to connect with me!
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [Email](mailto:mohamedaminetlili02@gmail.com)
+
+---
+
+🌟 **Let's build something amazing together!**
