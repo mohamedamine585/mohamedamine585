@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mohamed Amine Tlili!
 
-I'm a **Software Engineer** with a deep passion for building **agentic AI systems**, production-ready **LLM applications**, and scalable **backends**[cite: 2]. I love exploring the intersection of AI orchestration, agentic harness, and distributed systems.
+I'm a **Software Engineer** with a deep passion for building **agentic AI systems**, production-ready **LLM applications**, and scalable **backends**. I love exploring the intersection of AI orchestration, agentic harness, and distributed systems.
 
 ---
 
@@ -37,16 +37,16 @@ I'm a **Software Engineer** with a deep passion for building **agentic AI system
 
 ### 💡 What I'm Learning & Exploring
 I am currently deepening my expertise in:
-- Building **Model Context Protocol (MCP)** servers and secure proxy routing[cite: 2].
-- Advanced context management and multi-agent workflow optimization using Graph-based frameworks[cite: 2].
-- Event-driven patterns to bypass LLM/API constraints in high-throughput enterprise systems[cite: 2].
+- Building **Model Context Protocol (MCP)** servers and secure proxy routing.
+- Advanced context management and multi-agent workflow optimization using Graph-based frameworks.
+- Event-driven patterns to bypass LLM/API constraints in high-throughput enterprise systems.
 
 ---
 
 ### 🎯 My Goals
-- 🧠 Build robust developer tools and framework integrations for AI workflows[cite: 2].
-- 💻 Contribute to the open-source agentic AI and LLM ecosystem[cite: 2].
-- 🚀 Design high-availability systems that bridge advanced AI with backend stability[cite: 2].
+- 🧠 Build robust developer tools and framework integrations for AI workflows.
+- 💻 Contribute to the open-source agentic AI and LLM ecosystem.
+- 🚀 Design high-availability systems that bridge advanced AI with backend stability.
 
 ---
 
